@@ -1,0 +1,579 @@
+    .logo {
+        width: 200px;
+        text-align: center;
+        justify-content: center;
+        align-items: center;
+        text-justify: auto;
+        background-color: #3b7a57;
+        -webkit-text-fill-color: white;
+        border: 3px solid;
+        height: 200px;
+        top: -531px;
+        margin: -111px;
+        left: 248px;
+        position: relative;
+    }
+    
+    .text {
+        text-align: center;
+        margin-top: 85px;
+        justify-content: center;
+        top: 100px;
+        margin: 85px;
+        left: 0px;
+    }
+    
+    .text1 {
+        -webkit-text-fill-color: white;
+        font-size: 44px;
+        text-align: center;
+        margin-top: 85px;
+        justify-content: center;
+        top: 71px;
+        margin: 67px;
+        left: -91px;
+        position: relative;
+        width: 362px;
+        height: 167px;
+    }
+    
+    .text2 {
+        -webkit-text-fill-color: white;
+        font-size: -14px;
+        text-align: center;
+        margin-top: 85px;
+        top: 42px;
+        margin: 67px;
+        left: -57px;
+        position: relative;
+        width: 362px;
+        height: 167px;
+    }
+    
+    .nav1 {
+        left: -107px;
+        position: relative;
+    }
+    
+    .nav {
+        font-size: 20px;
+        width: 150px;
+        -webkit-text-fill-color: gray;
+        height: 47px;
+        top: 21px;
+        margin: 13px;
+        left: 536px;
+        float: left;
+        position: relative;
+    }
+    
+    .nav2 {
+        top: 808px;
+        margin: -53px;
+        left: 520px;
+        position: relative;
+        width: -webkit-fill-available;
+    }
+    
+    .bg {
+        background-image: url(building.jpg);
+        box-shadow: 0 0 601px 65px black inset;
+        left: -162px;
+        margin: 171px;
+        top: 139px;
+        position: relative;
+        width: 1500px;
+        height: 586px;
+    }
+    
+    .card {
+        background-image: linear-gradient(0deg, #63A4FF, transparent);
+        font-style: oblique;
+        font-weight: 200;
+        -webkit-text-fill-color: black;
+        margin-top: 37px;
+        top: -514px;
+        margin: 67px;
+        left: 1080px;
+        position: relative;
+        height: 587px;
+        opacity: 0.7;
+    }
+    
+    .card1 {
+        font-style: oblique;
+        font-weight: 200;
+        -webkit-text-fill-color: black;
+        margin-top: 37px;
+        top: -476px;
+        margin: 43px;
+        left: 1153px;
+        position: relative;
+        height: 587px;
+    }
+    
+    .card2 {
+        font-style: oblique;
+        font-weight: 200;
+        -webkit-text-fill-color: black;
+        margin-top: 37px;
+        top: -476px;
+        margin: 43px;
+        left: 1153px;
+        position: relative;
+        height: 587px;
+    }
+    
+    .card3 {
+        font-style: oblique;
+        font-weight: 200;
+        -webkit-text-fill-color: black;
+        margin-top: 37px;
+        top: -472px;
+        margin: 43px;
+        left: 1230px;
+        position: relative;
+        height: 526px;
+    }
+    
+    .card-text1 {
+        -webkit-text-fill-color: black;
+        margin-top: 37px;
+        top: 6px;
+        margin: 46px;
+        left: 5px;
+        position: relative;
+        height: 256px;
+        width: 225px;
+        font-style: initial;
+    }
+    
+    .card-text3 {
+        -webkit-text-fill-color: black;
+        margin-top: 37px;
+        top: 65px;
+        margin: 0px;
+        left: 58px;
+        position: relative;
+        height: 256px;
+        width: 225px;
+        font-style: initial;
+    }
+    
+    .card-img-top {
+        margin-top: 37px;
+        top: -69px;
+        margin: 67px;
+        left: -68px;
+        position: relative;
+        height: 256px;
+        width: 120px;
+        border-radius: 290px;
+        border-top: -39px;
+    }
+    
+    .img {
+        border-radius: 20%;
+    }
+    
+    .card-img,
+    .card-img-top {
+        border-top-left-radius: 0;
+        border-top-right-radius: 0;
+    }
+    
+    .card-img-top1 {
+        top: 68px;
+        border-top-left-radius: 50%;
+        border-top-right-radius: 50%;
+        border-bottom-left-radius: 50%;
+        border-bottom-right-radius: 50%;
+        height: 231px;
+        width: 243px;
+        left: 53px;
+        position: relative;
+    }
+    
+    .card-text {
+        -webkit-text-fill-color: black;
+        margin-top: 37px;
+        top: -465px;
+        margin: 67px;
+        left: -46px;
+        position: relative;
+        height: 256px;
+        width: 186px;
+    }
+    
+    .card-text1 {
+        -webkit-text-fill-color: black;
+        margin-top: 37px;
+        top: 6px;
+        margin: 67px;
+        left: 0px;
+        position: relative;
+        height: 256px;
+        width: 186px;
+        font-style: initial;
+    }
+    
+    .card-title {
+        margin-top: 37px;
+        top: -199px;
+        margin: 67px;
+        left: -38px;
+        position: relative;
+        height: 256px;
+        width: 186px;
+    }
+    
+    .symbol {
+        background-color: black;
+        top: -70px;
+        margin: 0px;
+        left: 735px;
+        position: relative;
+        height: 100px;
+        width: 100px;
+        border-top-right-radius: 50%;
+        border-bottom-left-radius: 50%;
+    }
+    
+    .src {
+        top: 32px;
+        margin: 0px;
+        left: 37px;
+        position: relative;
+        height: 150%;
+        width: 150px;
+    }
+    
+    .card-group {
+        top: 315px;
+        margin: 1px;
+        left: -1057px;
+        position: relative;
+        height: 163px;
+        width: 1357px;
+    }
+    
+    .btn {
+        top: -136px;
+        margin: 1px;
+        left: 85px;
+        position: relative;
+        height: 45px;
+        width: 162px;
+    }
+    
+    .btn3 {
+        top: 1px;
+        display: flex;
+        margin: -5px;
+        left: 59px;
+        position: relative;
+        height: 45px;
+        width: 162px;
+        border-radius: 5%;
+        text-align: center;
+        justify-content: center;
+        font-style: italic;
+        vertical-align: middle;
+    }
+    
+    .dvblk {
+        background-color: black;
+        top: 339px;
+        margin: 1px;
+        left: -8px;
+        position: relative;
+        height: 153px;
+        -webkit-text-fill-color: white;
+        font-size: large;
+        justify-content: center;
+        text-align: center;
+        vertical-align: middle;
+        width: 1522px;
+    }
+    
+    .cl {
+        color: green;
+        float: left;
+        font-weight: 620;
+    }
+    
+    .teach {
+        top: 363px;
+        margin: 1px;
+        left: 85px;
+        position: relative;
+        height: 45px;
+        width: 162px;
+    }
+    
+    .para {
+        top: 17px;
+        margin: 1px;
+        left: 2px;
+        position: relative;
+        height: 44px;
+        width: 172px;
+    }
+    
+    .ppp {
+        top: -226px;
+        margin: 4px;
+        left: 226px;
+        position: relative;
+    }
+    
+    .art {
+        top: 32px;
+        margin: 4px;
+        left: 0px;
+        position: relative;
+    }
+    
+    .nav21 {
+        -webkit-text-fill-color: rgb(102, 202, 180);
+    }
+    
+    .nav2 {
+        top: 384PX;
+        margin: 4px;
+        left: 128PX;
+        position: relative;
+        width: inherit;
+        float: left;
+        -webkit-text-fill-color: gray;
+    }
+    
+    .line1 {
+        top: 850px;
+        margin: 4px;
+        left: 0px;
+        position: relative;
+        width: 1525px;
+    }
+    
+    .center {
+        text-align: center;
+        top: 858px;
+        margin: 4px;
+        left: -662px;
+        position: relative;
+    }
+    
+    .d {
+        top: 0px;
+        margin: 1px;
+        left: 0px;
+        position: relative;
+    }
+    
+    .d1 {
+        height: 284px;
+        width: 400px;
+        border: 2px solid white;
+        top: 905px;
+        margin: 6px;
+        left: 327px;
+        position: relative;
+    }
+    
+    .ig {
+        top: 0px;
+        margin: 6px;
+        left: 0px;
+        position: relative;
+    }
+    
+    .ig1 {
+        top: 918px;
+        margin: 837px;
+        left: -821px;
+        position: relative;
+    }
+    
+    .ig2 {
+        top: 922px;
+        margin: 837px;
+        left: -821px;
+        position: relative;
+    }
+    
+    .ig3 {
+        top: 922px;
+        margin: 837px;
+        left: -821px;
+        position: relative;
+    }
+    
+    .ig4 {
+        top: 922px;
+        margin: 837px;
+        left: -821px;
+        position: relative;
+    }
+    
+    .d2 {
+        height: 284px;
+        width: 400px;
+        border: 2px solid white;
+        top: 666px;
+        margin: -342px;
+        left: 1089px;
+        position: relative;
+    }
+    
+    .d3 {
+        height: 284px;
+        width: 400px;
+        border: 2px solid white;
+        top: 1028px;
+        margin: -352px;
+        left: 1096px;
+        position: relative;
+    }
+    
+    .t1 {
+        height: 261px;
+        width: 271px;
+        top: 833px;
+        margin: -837px;
+        left: 957px;
+        position: relative;
+    }
+    
+    .t2 {
+        height: 290px;
+        width: 252px;
+        top: 833px;
+        margin: -837px;
+        left: 970px;
+        position: relative;
+    }
+    
+    .t3 {
+        height: 62px;
+        width: 256px;
+        top: 955px;
+        margin: -978px;
+        left: 1104px;
+        position: relative;
+    }
+    
+    .t4 {
+        height: 284px;
+        width: 239px;
+        top: 959px;
+        margin: -968px;
+        left: 1096px;
+        position: relative;
+    }
+    
+    .h11 {
+        height: 284px;
+        width: 239px;
+        top: 977px;
+        margin: -968px;
+        left: 1057px;
+        position: relative;
+    }
+    
+    .h12 {
+        height: 284px;
+        width: 239px;
+        top: 969px;
+        margin: -968px;
+        left: 1096px;
+        position: relative;
+    }
+    
+    .h13 {
+        height: 284px;
+        width: 239px;
+        top: 975px;
+        margin: -968px;
+        left: 1059px;
+        position: relative;
+    }
+    
+    .h14 {
+        height: 284px;
+        width: 239px;
+        top: 972px;
+        margin: -968px;
+        left: 1057px;
+        position: relative;
+    }
+    
+    .w {
+        height: 284px;
+        width: 239px;
+        top: 1386px;
+        margin: 0px;
+        left: 563px;
+        position: relative;
+    }
+    
+    .footer {
+        background-color: black;
+        height: 300px;
+        width: 70%;
+        top: 1855px;
+        margin: 0px;
+        left: -9px;
+        position: relative;
+    }
+    
+    .f11 {
+        top: 1187px;
+        margin: 0px;
+        left: 86px;
+        position: relative;
+    }
+    
+    .f12 {
+        top: 1153px;
+        margin: 0px;
+        left: 146px;
+        position: relative;
+    }
+    
+    .f13 {
+        top: 1121px;
+        margin: 0px;
+        left: 215px;
+        position: relative;
+    }
+    
+    .f14 {
+        top: 1086px;
+        margin: 0px;
+        left: 283px;
+        position: relative;
+    }
+    
+    .f1 {
+        -webkit-text-fill-color: white;
+        top: 75px;
+        margin: -660px;
+        left: 1203px;
+        position: relative;
+    }
+    
+    .f2 {
+        top: -442px;
+        margin: 18px;
+        left: 495px;
+        position: relative;
+    }
+    
+    .f3 {
+        -webkit-text-fill-color: white;
+        top: 646px;
+        margin: 18px;
+        left: 269px;
+        position: relative;
+    }
